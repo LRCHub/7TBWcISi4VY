@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Bitter Fuck",
+  "base_artist": "Joji",
+  "createdAt": "2026-03-06T02:11:34.349875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bitter Fuck",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/01_Bitter_Fuck_Joji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bitter Fuck - salute Remix",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/02_Bitter_Fuck_-_salute_Remix_Joji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bitter Fuck (Salute Remix)",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/03_Bitter_Fuck_(Salute_Remix)_Joji.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bitter Fuck",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/04_Bitter_Fuck_Joji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bitter Fuck",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/05_Bitter_Fuck_Joji.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bitter Fuck (Explicit)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/06_Bitter_Fuck_(Explicit)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bitter Fuck (salute remix)",
+      "artist": "Joji, salute",
+      "has_synced": true,
+      "path": "select/07_Bitter_Fuck_(salute_remix)_Joji,_salute.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bitter Fuck (Salute Remix)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/08_Bitter_Fuck_(Salute_Remix)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "15 Bitter Fuck (salute Remix)",
+      "artist": "Joji & salute",
+      "has_synced": true,
+      "path": "select/09_15_Bitter_Fuck_(salute_Remix)_Joji_&_salute.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bitter Fuck",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Bitter_Fuck_Joji.txt"
+    }
+  ]
+}
